@@ -1,3 +1,11 @@
+
+
+**Language / 语言**
+
+[English](README.md) [中文](README.zh.md)
+
+
+
 # Cursor Cookbook
 
 This repo contains small examples for building with Cursor.
